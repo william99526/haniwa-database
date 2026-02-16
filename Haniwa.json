@@ -608,7 +608,7 @@
     "Period": "6世紀",
     "Height_cm": "86.5cm",
     "Type": "Animal",
-    "Image": "Images/Haniwa_55.png"
+    "Image": "/Images/Haniwa_55.png"
   },
   {
     "Item_number": "56",
@@ -621,7 +621,7 @@
     "Period": "(原品·6世紀前半)",
     "Height_cm": "49.4cm",
     "Type": "Animal",
-    "Image": "Images/Haniwa_56.png"
+    "Image": "/Images/Haniwa_56.png"
   },
   {
     "Item_number": "57",
@@ -634,6 +634,6 @@
     "Period": "(原品·6世紀前半)",
     "Height_cm": "46.4cm",
     "Type": "Animal",
-    "Image": "Images/Haniwa_57.png"
+    "Image": "/Images/Haniwa_57.png"
   }
 ]
