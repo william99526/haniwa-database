@@ -2,7 +2,7 @@
 let haniwaList = [];
 
 // fetch JSON
-fetch('./haniwa.json')
+fetch('./data./haniwa.json')
   .then(response => response.json())
   .then(data => {
     haniwaList = data;
