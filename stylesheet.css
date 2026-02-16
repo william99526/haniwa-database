@@ -1,0 +1,180 @@
+/* Reset & base styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Tahoma, sans-serif;
+  background: #f6f4f1;
+  color: #222;
+}
+
+/* Navigation bar */
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #594536;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+  font-family: Tahoma, sans-serif;
+}
+
+ul li a:hover {
+  background-color: hsl(0, 0%, 33%);
+}
+
+/* Header */
+.header {
+  background: linear-gradient(135deg, bisque, #e6c9a8);
+  padding: 40px 20px;
+  text-align: center;
+  font-family: Tahoma, sans-serif;
+}
+
+.header h1 {
+  font-size: 2.5rem;
+  letter-spacing: 1px;
+}
+
+/* Main text / content box */
+.main-text {
+  max-width: 600px; /* 40% width is too small on desktop */
+  margin: 50px auto; /* center the box and add spacing from header */
+  padding: 25px 30px;
+  background: white;
+  border: 1px solid rgba(151, 106, 38, 0.3);
+  border-radius: 12px;
+  line-height: 1.6;
+  font-size: 1.05rem;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+.content {
+  max-width: 900px;
+  margin: 40px auto;
+  font-family: "tahoma";
+  padding: 20px;
+}
+
+.object-record {
+  display: flex;
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.object-image img {
+  max-width: 300px;
+  border: 1px solid #ccc;
+}
+
+.object-metadata p {
+  margin: 6px 0;
+}
+
+.object-description {
+  margin-top: 30px;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 0.75rem;
+  background: #fff;
+  text-align: center;
+  transition: all 0.3s ease; /* smooth expansion */
+  cursor: pointer;
+}
+
+.haniwa-img {
+  width: 100%;
+  max-height: 250px;
+  object-fit: contain;
+  display: block;
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+}
+
+#haniwa-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1.5rem;
+  padding: 1rem;
+}
+
+button {
+  align-items: center;
+  background-color: #E6C9A8;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: .25rem;
+  box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+  box-sizing: border-box;
+  color: rgba(0, 0, 0, 0.85);
+  cursor: pointer;
+  display: inline-flex;
+  font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 1.25;
+  min-height: 3rem;
+  padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+  text-decoration: none;
+  transition: all 250ms;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  width: auto;
+}
+
+button:hover,
+button:focus {
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+  color: rgba(0, 0, 0, 0.65);
+}
+
+#button:hover {
+  transform: translateY(-1px);
+}
+
+#button:active {
+  background-color: #A36E51;
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+  color: rgba(0, 0, 0, 0.65);
+  transform: translateY(0);
+}
+
+/* Info inside card (hidden by default) */
+.info-content {
+  display: none;
+  text-align: left;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+  color: #333;
+  line-height: 1.4;
+}
+
+/* Shown when card is expanded */
+.card.expanded .info-content {
+  display: block;
+}
+
+/* Optional hover effect */
+.card:hover {
+  transform: translateY(-3px);
+}
