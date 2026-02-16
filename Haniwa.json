@@ -10,7 +10,7 @@
     "Period": "6世紀前半",
     "Height_cm": "82.3 cm",
     "Type": "Human",
-    "Image": "images/Haniwa_1.png"
+    "Image": "Images/Haniwa_1.png"
   },
   {
     "Item_number": "2",
@@ -23,7 +23,7 @@
     "Period": "6世紀前半",
     "Height_cm": "68.9cm",
     "Type": "Human",
-    "Image": "images/Haniwa_2.png"
+    "Image": "Images/Haniwa_2.png"
   },
   {
     "Item_number": "3",
@@ -36,7 +36,7 @@
     "Period": "6世紀前半",
     "Height_cm": "49.4cm",
     "Type": "Human",
-    "Image": "images/Haniwa_3.png"
+    "Image": "Images/Haniwa_3.png"
   },
   {
     "Item_number": "4",
@@ -49,7 +49,7 @@
     "Period": "6世紀前半",
     "Height_cm": "64.0cm",
     "Type": "Human",
-    "Image": "images/Haniwa_4.png"
+    "Image": "Images/Haniwa_4.png"
   },
   {
     "Item_number": "5",
@@ -62,7 +62,7 @@
     "Period": "6世紀前半",
     "Height_cm": "78.7cm",
     "Type": "Human",
-    "Image": "images/Haniwa_5.png"
+    "Image": "Images/Haniwa_5.png"
   },
   {
     "Item_number": "6",
@@ -75,7 +75,7 @@
     "Period": "6世紀前半",
     "Height_cm": "62.0cm",
     "Type": "Human",
-    "Image": "images/Haniwa_6.png"
+    "Image": "Images/Haniwa_6.png"
   },
   {
     "Item_number": "7",
@@ -88,7 +88,7 @@
     "Period": "6世紀前半",
     "Height_cm": "76.4cm",
     "Type": "Human",
-    "Image": "images/Haniwa_7.png"
+    "Image": "Images/Haniwa_7.png"
   },
   {
     "Item_number": "8",
@@ -101,7 +101,7 @@
     "Period": "6世紀前半",
     "Height_cm": "80.3cm",
     "Type": "Human",
-    "Image": "images/Haniwa_8.png"
+    "Image": "Images/Haniwa_8.png"
   },
   {
     "Item_number": "9",
@@ -114,7 +114,7 @@
     "Period": "6世紀前半",
     "Height_cm": "76.6cm",
     "Type": "Human",
-    "Image": "images/Haniwa_9.png"
+    "Image": "Images/Haniwa_9.png"
   },
   {
     "Item_number": "10",
@@ -127,7 +127,7 @@
     "Period": "6世紀前半",
     "Height_cm": "61.6cm",
     "Type": "Human",
-    "Image": "images/Haniwa_10.png"
+    "Image": "Images/Haniwa_10.png"
   },
   {
     "Item_number": "11",
@@ -140,7 +140,7 @@
     "Period": "6世紀前半",
     "Height_cm": "70.0cm",
     "Type": "Animal",
-    "Image": "images/Haniwa_11.png"
+    "Image": "Images/Haniwa_11.png"
   },
   {
     "Item_number": "12",
@@ -153,7 +153,7 @@
     "Period": "6世紀前半",
     "Height_cm": "85.6cm",
     "Type": "Animal",
-    "Image": "images/Haniwa_12.png"
+    "Image": "Images/Haniwa_12.png"
   },
   {
     "Item_number": "13",
@@ -166,7 +166,7 @@
     "Period": "6世紀前半",
     "Height_cm": "131.2cm",
     "Type": "Weapon",
-    "Image": "images/Haniwa_13.png"
+    "Image": "Images/Haniwa_13.png"
   },
   {
     "Item_number": "14",
@@ -179,7 +179,7 @@
     "Period": "6世紀前半",
     "Height_cm": "132.6cm",
     "Type": "Weapon",
-    "Image": "images/Haniwa_14.png"
+    "Image": "Images/Haniwa_14.png"
   },
   {
     "Item_number": "15",
@@ -192,7 +192,7 @@
     "Period": "6世紀前半",
     "Height_cm": "61.5cm",
     "Type": "Weapon",
-    "Image": "images/Haniwa_15.png"
+    "Image": "Images/Haniwa_15.png"
   },
   {
     "Item_number": "16",
@@ -205,7 +205,7 @@
     "Period": "6世紀前半",
     "Height_cm": "101.0cm",
     "Type": "Weapon",
-    "Image": "images/Haniwa_16.png"
+    "Image": "Images/Haniwa_16.png"
   },
   {
     "Item_number": "17",
@@ -218,7 +218,7 @@
     "Period": "5世紀中葉",
     "Height_cm": "84.7cm",
     "Type": "Cylinder",
-    "Image": "images/Haniwa_17.png"
+    "Image": "Images/Haniwa_17.png"
   },
   {
     "Item_number": "18",
@@ -231,7 +231,7 @@
     "Period": "5世紀中葉",
     "Height_cm": "86.4cm",
     "Type": "Cylinder",
-    "Image": "images/Haniwa_18.png"
+    "Image": "Images/Haniwa_18.png"
   },
   {
     "Item_number": "19",
@@ -244,7 +244,7 @@
     "Period": "5世紀中葉",
     "Height_cm": "90.4cm",
     "Type": "Cylinder",
-    "Image": "images/Haniwa_19.png"
+    "Image": "Images/Haniwa_19.png"
   },
   {
     "Item_number": "20",
@@ -257,7 +257,7 @@
     "Period": "5世紀中葉",
     "Height_cm": "88.2cm",
     "Type": "Cylinder",
-    "Image": "images/Haniwa_20.png"
+    "Image": "Images/Haniwa_20.png"
   },
   {
     "Item_number": "21",
@@ -270,7 +270,7 @@
     "Period": "5世紀中葉",
     "Height_cm": "61.8cm",
     "Type": "Cylinder",
-    "Image": "images/Haniwa_21.png"
+    "Image": "Images/Haniwa_21.png"
   },
   {
     "Item_number": "22",
@@ -283,7 +283,7 @@
     "Period": "5世紀中葉",
     "Height_cm": "56.0cm",
     "Type": "Cylinder",
-    "Image": "images/Haniwa_22.png"
+    "Image": "Images/Haniwa_22.png"
   },
   {
     "Item_number": "23",
@@ -296,7 +296,7 @@
     "Period": "5世紀中葉",
     "Height_cm": "58.2cm",
     "Type": "Cylinder",
-    "Image": "images/Haniwa_23.png"
+    "Image": "Images/Haniwa_23.png"
   },
   {
     "Item_number": "24",
@@ -309,7 +309,7 @@
     "Period": "5世紀中葉",
     "Height_cm": "57.7cm",
     "Type": "Cylinder",
-    "Image": "images/Haniwa_24.png"
+    "Image": "Images/Haniwa_24.png"
   },
   {
     "Item_number": "25",
@@ -322,7 +322,7 @@
     "Period": "5世紀中葉",
     "Height_cm": "58.2cm",
     "Type": "Cylinder",
-    "Image": "images/Haniwa_25.png"
+    "Image": "Images/Haniwa_25.png"
   },
   {
     "Item_number": "26",
@@ -335,7 +335,7 @@
     "Period": "5世紀中葉",
     "Height_cm": "56.0cm",
     "Type": "Cylinder",
-    "Image": "images/Haniwa_26.png"
+    "Image": "Images/Haniwa_26.png"
   },
   {
     "Item_number": "27",
@@ -348,7 +348,7 @@
     "Period": "5世紀中葉",
     "Height_cm": "58.4cm",
     "Type": "Cylinder",
-    "Image": "images/Haniwa_27.png"
+    "Image": "Images/Haniwa_27.png"
   },
   {
     "Item_number": "28",
@@ -361,7 +361,7 @@
     "Period": "5世紀中葉",
     "Height_cm": "57.0cm",
     "Type": "Cylinder",
-    "Image": "images/Haniwa_28.png"
+    "Image": "Images/Haniwa_28.png"
   },
   {
     "Item_number": "29",
@@ -374,7 +374,7 @@
     "Period": "5世紀中葉",
     "Height_cm": "52.8cm",
     "Type": "House",
-    "Image": "images/Haniwa_29.png"
+    "Image": "Images/Haniwa_29.png"
   },
   {
     "Item_number": "30",
@@ -387,7 +387,7 @@
     "Period": "5世紀中葉",
     "Height_cm": "36.0cm",
     "Type": "Cylinder",
-    "Image": "images/Haniwa_30.png"
+    "Image": "Images/Haniwa_30.png"
   },
   {
     "Item_number": "31",
@@ -400,7 +400,7 @@
     "Period": "5世紀中葉",
     "Height_cm": "78.4cm",
     "Type": "Cylinder",
-    "Image": "images/Haniwa_31.png"
+    "Image": "Images/Haniwa_31.png"
   },
   {
     "Item_number": "40",
@@ -413,7 +413,7 @@
     "Period": "6世紀前半",
     "Height_cm": "123.0cm",
     "Type": "Human",
-    "Image": "images/Haniwa_40.png"
+    "Image": "Images/Haniwa_40.png"
   },
   {
     "Item_number": "41",
@@ -426,7 +426,7 @@
     "Period": "6世紀前半",
     "Height_cm": "63.0cm",
     "Type": "Human",
-    "Image": "images/Haniwa_41.png"
+    "Image": "Images/Haniwa_41.png"
   },
   {
     "Item_number": "42",
@@ -439,7 +439,7 @@
     "Period": "6世紀前半",
     "Height_cm": "90.0cm",
     "Type": "Human",
-    "Image": "images/Haniwa_42.png"
+    "Image": "Images/Haniwa_42.png"
   },
   {
     "Item_number": "43",
@@ -452,7 +452,7 @@
     "Period": "6世紀前半",
     "Height_cm": "73.0cm",
     "Type": "Human",
-    "Image": "images/Haniwa_43.png"
+    "Image": "Images/Haniwa_43.png"
   },
   {
     "Item_number": "44",
@@ -465,7 +465,7 @@
     "Period": "6世紀",
     "Height_cm": "37.5cm",
     "Type": "Head",
-    "Image": "images/Haniwa_44.png"
+    "Image": "Images/Haniwa_44.png"
   },
   {
     "Item_number": "45",
@@ -478,7 +478,7 @@
     "Period": "6世紀",
     "Height_cm": "29.2cm",
     "Type": "Head",
-    "Image": "images/Haniwa_45.png"
+    "Image": "Images/Haniwa_45.png"
   },
   {
     "Item_number": "46",
@@ -491,7 +491,7 @@
     "Period": "5世紀後半",
     "Height_cm": "21.0cm",
     "Type": "Head",
-    "Image": "images/Haniwa_46.png"
+    "Image": "Images/Haniwa_46.png"
   },
   {
     "Item_number": "47",
@@ -504,7 +504,7 @@
     "Period": "6世紀",
     "Height_cm": "25.7cm",
     "Type": "Head",
-    "Image": "images/Haniwa_47.png"
+    "Image": "Images/Haniwa_47.png"
   },
   {
     "Item_number": "48",
@@ -517,7 +517,7 @@
     "Period": "6世紀",
     "Height_cm": "20.3cm",
     "Type": "Head",
-    "Image": "images/Haniwa_48.png"
+    "Image": "Images/Haniwa_48.png"
   },
   {
     "Item_number": "49",
@@ -530,7 +530,7 @@
     "Period": "6世紀",
     "Height_cm": "18.4cm",
     "Type": "Head",
-    "Image": "images/Haniwa_49.png"
+    "Image": "Images/Haniwa_49.png"
   },
   {
     "Item_number": "50",
@@ -543,7 +543,7 @@
     "Period": "5世紀後半",
     "Height_cm": "25.5cm",
     "Type": "Head",
-    "Image": "images/Haniwa_50.png"
+    "Image": "Images/Haniwa_50.png"
   },
   {
     "Item_number": "51",
@@ -556,7 +556,7 @@
     "Period": "5世紀後半",
     "Height_cm": "20.7cm",
     "Type": "Head",
-    "Image": "images/Haniwa_51.png"
+    "Image": "Images/Haniwa_51.png"
   },
   {
     "Item_number": "52",
@@ -569,7 +569,7 @@
     "Period": "6世紀前半",
     "Height_cm": "56.0cm",
     "Type": "Animal",
-    "Image": "images/Haniwa_52.png"
+    "Image": "Images/Haniwa_52.png"
   },
   {
     "Item_number": "53",
@@ -582,7 +582,7 @@
     "Period": "5世紀後半",
     "Height_cm": "40.0cm",
     "Type": "Animal",
-    "Image": "images/Haniwa_53.png"
+    "Image": "Images/Haniwa_53.png"
   },
   {
     "Item_number": "54",
@@ -595,7 +595,7 @@
     "Period": "6世紀後半",
     "Height_cm": "98.5cm",
     "Type": "Animal",
-    "Image": "images/Haniwa_54.png"
+    "Image": "Images/Haniwa_54.png"
   },
   {
     "Item_number": "55",
@@ -608,7 +608,7 @@
     "Period": "6世紀",
     "Height_cm": "86.5cm",
     "Type": "Animal",
-    "Image": "images/Haniwa_55.png"
+    "Image": "Images/Haniwa_55.png"
   },
   {
     "Item_number": "56",
@@ -621,7 +621,7 @@
     "Period": "(原品·6世紀前半)",
     "Height_cm": "49.4cm",
     "Type": "Animal",
-    "Image": "images/Haniwa_56.png"
+    "Image": "Images/Haniwa_56.png"
   },
   {
     "Item_number": "57",
@@ -634,6 +634,6 @@
     "Period": "(原品·6世紀前半)",
     "Height_cm": "46.4cm",
     "Type": "Animal",
-    "Image": "images/Haniwa_57.png"
+    "Image": "Images/Haniwa_57.png"
   }
 ]
