@@ -25,27 +25,23 @@ function displayHaniwa(list) {
     div.className = 'card';
 
     div.innerHTML = `
-      <div class="img-wrapper">
-        <img src="${item.Image}" alt="${item.Name || 'Haniwa'}" class="haniwa-img" onclick="toggleInfo(this)">
-        <div class="info-content">
-          <strong>${item.Name || '—'}</strong><br>
-          ${item.Kanji || ''}<br>
-          <small>${item.Type || ''}</small><br>
-          <small>${item.Period || ''}</small><br>
-          <small>${item.Tomb_name || ''}</small><br>
-          <small>${item.Attribute_1 || ''}</small>
+      <a href="item.html?id=${item.Item_number}" class="card-link">
+        <div class="img-wrapper">
+          <img src="${item.Image}" alt="${item.Name || 'Haniwa'}" class="haniwa-img">
+          <div class="info-content">
+            <strong>${item.Name || '—'}</strong><br>
+            ${item.Kanji || ''}<br>
+            <small>${item.Type || ''}</small><br>
+            <small>${item.Period || ''}</small><br>
+            <small>${item.Tomb_name || ''}</small><br>
+            <small>${item.Attribute_1 || ''}</small>
+          </div>
         </div>
-      </div>
+      </a>
     `;
 
     container.appendChild(div);
   });
-}
-
-// toggle info inside the card
-function toggleInfo(img) {
-  const card = img.closest('.card');
-  card.classList.toggle('expanded');
 }
 
 // search functionality

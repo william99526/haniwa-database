@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="item.css">
+</head>
+<body>
+
+  <div class="navigation">
+    <ul>
+      <li><a href="website test.html">Home</a></li>
+      <li><a href="News.html">News</a></li>
+      <li><a href="Search.html">Search</a></li>
+      <li><a href="About.html">About</a></li>
+      <li><img class="haniwa-icon" src="haniwacartoon.png"></li>
+    </ul>
+  </div>
+
+  <div id="google_translate_element"></div>
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');
+    }
+  </script>
+  <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+  <div class="header">
+    <h1 class="item-name"></h1>
+    <h2 class="item-kanji"></h2>
+  </div>
+
+  <div class="body">
+    <div class="item-container">
+      <img class="item-image" src="" alt="Haniwa figure">
+      <div class="item-details">
+        <p><strong>Tomb:</strong> <span class="item-tomb"></span></p>
+        <p><strong>Period:</strong> <span class="item-period"></span></p>
+        <p><strong>Height:</strong> <span class="item-height"></span></p>
+        <p><strong>Type:</strong> <span class="item-type"></span></p>
+        <p><strong>Location:</strong> <span class="item-location"></span></p>
+      </div>
+    </div>
+    <button onclick="history.back()">← Back to search</button>
+  </div>
+
+  <div class="footer"></div>
+
+  <script src="item.js"></script>
+</body>
+</html>
