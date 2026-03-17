@@ -58,7 +58,7 @@ function runSearch() {
       (item.Name && item.Name.toLowerCase().includes(query)) ||
       (item.Kanji && item.Kanji.toLowerCase().includes(query)) ||
       (item.Tomb_name && item.Tomb_name.toLowerCase().includes(query)) ||
-      (item.period_english && item.Period_english.toLowerCase().includes(query))
+      (item.period_english && item.Period_english.toLowerCase().includes(query))||
       (item.Attribute_1 && item.Attribute_1.toLowerCase().includes(query))
     );
   });
